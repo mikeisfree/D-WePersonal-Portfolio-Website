@@ -1,5 +1,7 @@
 import './style.css'
 import './styleImport.css'
+import './gallery.css'
 import './script.js'
 import './slider.js'
 import './three-scene.js'
+import './gallery.js'
